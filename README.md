@@ -6,11 +6,11 @@
 
 Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. In this skill tree, you'll learn how to use Kubernetes to deploy and manage applications on a cluster of machines.
 
-|   Index | Name                                                              | Level   | Repo                                                                   | Course Link                                                                 |
-|---------|-------------------------------------------------------------------|---------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [Quick Start with Kubernetes](#quick-start-with-kubernetes)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes)    | [🚀 Start Learning](https://labex.io/courses/quick-start-with-kubernetes)    |
-|       2 | [Kubernetes Practice Labs](#kubernetes-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kubernetes-practice-labs)       | [🚀 Start Learning](https://labex.io/courses/kubernetes-practice-labs)       |
-|       3 | [Kubernetes Practice Challenges](#kubernetes-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kubernetes-practice-challenges) | [🚀 Start Learning](https://labex.io/courses/kubernetes-practice-challenges) |
+|   Index | Name                                                                                      | Level   | Repo                                                                   | Course Link                                                        |
+|---------|-------------------------------------------------------------------------------------------|---------|------------------------------------------------------------------------|--------------------------------------------------------------------|
+|       1 | [Quick Start with Kubernetes](https://labex.io/courses/quick-start-with-kubernetes)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes)    | [🚀 Start](https://labex.io/courses/quick-start-with-kubernetes)    |
+|       2 | [Kubernetes Practice Labs](https://labex.io/courses/kubernetes-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kubernetes-practice-labs)       | [🚀 Start](https://labex.io/courses/kubernetes-practice-labs)       |
+|       3 | [Kubernetes Practice Challenges](https://labex.io/courses/kubernetes-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kubernetes-practice-challenges) | [🚀 Start](https://labex.io/courses/kubernetes-practice-challenges) |
 
 ## More Courses
 
