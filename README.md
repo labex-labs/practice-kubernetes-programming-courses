@@ -4,26 +4,24 @@
 <img width="128px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
 </div>
 
-Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. In this skill tree, you'll learn how to use Kubernetes to deploy and manage applications on a cluster of machines.
+Kubernetes is the leading container orchestration platform. This Skill Tree offers a comprehensive learning path for mastering Kubernetes. Perfect for DevOps beginners, it provides a clear roadmap to understand container orchestration, scaling, and deployment strategies. Through hands-on, non-video courses and practical exercises in a cloud-native playground, you'll gain real-world experience in managing containerized applications at scale.
 
-|   Index | Name                                                                                      | Level   | Repo                                                                   | Course Link                                                        |
-|---------|-------------------------------------------------------------------------------------------|---------|------------------------------------------------------------------------|--------------------------------------------------------------------|
-|       1 | [Quick Start with Kubernetes](https://labex.io/courses/quick-start-with-kubernetes)       | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes)    | [🚀 Start](https://labex.io/courses/quick-start-with-kubernetes)    |
-|       2 | [Kubernetes Practice Labs](https://labex.io/courses/kubernetes-practice-labs)             | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kubernetes-practice-labs)       | [🚀 Start](https://labex.io/courses/kubernetes-practice-labs)       |
-|       3 | [Kubernetes Practice Challenges](https://labex.io/courses/kubernetes-practice-challenges) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/kubernetes-practice-challenges) | [🚀 Start](https://labex.io/courses/kubernetes-practice-challenges) |
+|   Index | Name                                                                                | Level   | Repo                                                                | Course Link                                                     |
+|---------|-------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------|-----------------------------------------------------------------|
+|       1 | [Quick Start with Kubernetes](https://labex.io/courses/quick-start-with-kubernetes) | ★☆☆     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Start](https://labex.io/courses/quick-start-with-kubernetes) |
 
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
