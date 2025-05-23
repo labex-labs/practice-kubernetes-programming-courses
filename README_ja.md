@@ -12,8 +12,8 @@ Kubernetes は、コンテナオーケストレーションプラットフォー
 
 |   インデックス | 名前                                                                                     | 難易度   | Repo                                                                 | 練習                                                                     |
 |----------------|------------------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|--------------------------------------------------------------------------|
-|              1 | [Kubernetes のクイックスタート](https://labex.io/ja/courses/quick-start-with-kubernetes) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-kubernetes) |
-|              2 | [初心者のための Kubernetes](https://labex.io/ja/courses/kubernetes-for-noobs)            | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 ラボを開始](https://labex.io/ja/courses/kubernetes-for-noobs)        |
+|              1 | [Kubernetes のクイックスタート](https://labex.io/ja/courses/quick-start-with-kubernetes) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-kubernetes) |
+|              2 | [初心者のための Kubernetes](https://labex.io/ja/courses/kubernetes-for-noobs)            | 初級     | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 ラボを開始](https://labex.io/ja/courses/kubernetes-for-noobs)        |
 
 ## その他
 
