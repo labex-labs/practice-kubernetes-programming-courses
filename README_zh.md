@@ -12,8 +12,8 @@ Kubernetes 是领先的容器编排平台。此技能树提供了全面掌握 Ku
 
 |   序号 | 名称                                                                           | 难度   | Repo                                                                 | 练习                                                                   |
 |--------|--------------------------------------------------------------------------------|--------|----------------------------------------------------------------------|------------------------------------------------------------------------|
-|      1 | [Kubernetes 快速入门](https://labex.io/zh/courses/quick-start-with-kubernetes) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-kubernetes) |
-|      2 | [Kubernetes 入门指南](https://labex.io/zh/courses/kubernetes-for-noobs)        | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 开始实验](https://labex.io/zh/courses/kubernetes-for-noobs)        |
+|      1 | [Kubernetes 快速入门](https://labex.io/zh/courses/quick-start-with-kubernetes) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-kubernetes) |
+|      2 | [Kubernetes 入门指南](https://labex.io/zh/courses/kubernetes-for-noobs)        | 初级   | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 开始实验](https://labex.io/zh/courses/kubernetes-for-noobs)        |
 
 ## 更多
 
