@@ -12,8 +12,8 @@ Kubernetes es la plataforma líder en orquestación de contenedores. Este Skill 
 
 |   Índice | Nombre                                                                                  | Dificultad   | Repo                                                                 | Práctica                                                                          |
 |----------|-----------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|        1 | [Inicio rápido con Kubernetes](https://labex.io/es/courses/quick-start-with-kubernetes) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-kubernetes) |
-|        2 | [Kubernetes para Principiantes](https://labex.io/es/courses/kubernetes-for-noobs)       | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/kubernetes-for-noobs)        |
+|        1 | [Inicio rápido con Kubernetes](https://labex.io/es/courses/quick-start-with-kubernetes) | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-kubernetes) |
+|        2 | [Kubernetes para Principiantes](https://labex.io/es/courses/kubernetes-for-noobs)       | Principiante | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/kubernetes-for-noobs)        |
 
 ## Más
 
