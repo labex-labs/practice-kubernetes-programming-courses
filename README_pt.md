@@ -12,8 +12,8 @@ Kubernetes é a principal plataforma de orquestração de contêineres. Esta Ski
 
 |   Índice | Nome                                                                                    | Dificuldade   | Repo                                                                 | Prática                                                                   |
 |----------|-----------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [Início Rápido com Kubernetes](https://labex.io/pt/courses/quick-start-with-kubernetes) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-kubernetes) |
-|        2 | [Kubernetes para Iniciantes](https://labex.io/pt/courses/kubernetes-for-noobs)          | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/kubernetes-for-noobs)        |
+|        1 | [Início Rápido com Kubernetes](https://labex.io/pt/courses/quick-start-with-kubernetes) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-kubernetes) |
+|        2 | [Kubernetes para Iniciantes](https://labex.io/pt/courses/kubernetes-for-noobs)          | Iniciante     | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Iniciar Lab](https://labex.io/pt/courses/kubernetes-for-noobs)        |
 
 ## Mais
 
