@@ -12,8 +12,8 @@ Kubernetes is the leading container orchestration platform. This Skill Tree prov
 
 |   Index | Name                                                                                | Difficulty   | Repo                                                                 | Practice                                                             |
 |---------|-------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-|       1 | [Quick Start with Kubernetes](https://labex.io/courses/quick-start-with-kubernetes) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-kubernetes) |
-|       2 | [Kubernetes for Noobs](https://labex.io/courses/kubernetes-for-noobs)               | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Start Lab](https://labex.io/courses/kubernetes-for-noobs)        |
+|       1 | [Quick Start with Kubernetes](https://labex.io/courses/quick-start-with-kubernetes) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-kubernetes) |
+|       2 | [Kubernetes for Noobs](https://labex.io/courses/kubernetes-for-noobs)               | Beginner     | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Start Lab](https://labex.io/courses/kubernetes-for-noobs)        |
 
 ## More
 
