@@ -12,8 +12,8 @@ Kubernetes (쿠버네티스) 는 최고의 컨테이너 오케스트레이션 �
 
 |   인덱스 | 이름                                                                            | 난이도   | Repo                                                                 | 연습                                                                    |
 |----------|---------------------------------------------------------------------------------|----------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
-|        1 | [Kubernetes 퀵 스타트](https://labex.io/ko/courses/quick-start-with-kubernetes) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-kubernetes) |
-|        2 | [초보자를 위한 쿠버네티스](https://labex.io/ko/courses/kubernetes-for-noobs)    | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 실습 시작](https://labex.io/ko/courses/kubernetes-for-noobs)        |
+|        1 | [Kubernetes 퀵 스타트](https://labex.io/ko/courses/quick-start-with-kubernetes) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-kubernetes) |
+|        2 | [초보자를 위한 쿠버네티스](https://labex.io/ko/courses/kubernetes-for-noobs)    | 초급     | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 실습 시작](https://labex.io/ko/courses/kubernetes-for-noobs)        |
 
 ## 더 보기
 
