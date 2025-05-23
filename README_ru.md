@@ -12,8 +12,8 @@ Kubernetes является ведущей платформой для орке�
 
 |   Индекс | Название                                                                              | Сложность   | Repo                                                                 | Практика                                                                         |
 |----------|---------------------------------------------------------------------------------------|-------------|----------------------------------------------------------------------|----------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с Kubernetes](https://labex.io/ru/courses/quick-start-with-kubernetes) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-kubernetes) |
-|        2 | [Kubernetes для новичков](https://labex.io/ru/courses/kubernetes-for-noobs)           | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/kubernetes-for-noobs)        |
+|        1 | [Быстрый старт с Kubernetes](https://labex.io/ru/courses/quick-start-with-kubernetes) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-kubernetes) |
+|        2 | [Kubernetes для новичков](https://labex.io/ru/courses/kubernetes-for-noobs)           | Начинающий  | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Начать Лабораторию](https://labex.io/ru/courses/kubernetes-for-noobs)        |
 
 ## Больше
 
