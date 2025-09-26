@@ -8,12 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
 </div>
 
-Kubernetes ist die führende Plattform zur Orchestrierung von Containern. Dieser Skill Tree bietet einen umfassenden Lernpfad, um Kubernetes zu meistern. Ideal für DevOps-Anfänger, bietet er eine klare Roadmap, um die Container-Orchestrierung, Skalierung und Bereitstellungsstrategien zu verstehen. Durch praktische, nicht-videobasierte Kurse und Übungen in einer cloud-nativen Umgebung sammeln Sie praktische Erfahrungen im großflächigen Management von containerisierten Anwendungen.
+Lernen Sie Kubernetes mit diesem umfassenden Lernpfad, der für Anfänger konzipiert wurde. Diese Roadmap bietet eine Reihe praktischer Kubernetes-Kurse, um die führende Container-Orchestrierungsplattform zu meistern. Sie bietet eine klare Struktur zum Verständnis von Container-Orchestrierung, Skalierung und Bereitstellungsstrategien. Durch praktische Übungen ohne Videos in einer Cloud-nativen Umgebung sammeln Sie reale Erfahrungen im groß angelegten Management von containerisierten Anwendungen.
 
-|   Index | Name                                                                                   | Schwierigkeit   | Repo                                                                 | Übung                                                                       |
-|---------|----------------------------------------------------------------------------------------|-----------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|       1 | [Schnellstart mit Kubernetes](https://labex.io/de/courses/quick-start-with-kubernetes) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-kubernetes) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-kubernetes) |
-|       2 | [Kubernetes für Anfänger](https://labex.io/de/courses/kubernetes-for-noobs)            | Anfänger        | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)        | [🚀 Labor Starten](https://labex.io/de/courses/kubernetes-for-noobs)        |
+|   Index | Name                                                                            | Schwierigkeit   | Repo                                                              | Übung                                                                    |
+|---------|---------------------------------------------------------------------------------|-----------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
+|       1 | [Kubernetes für Anfänger](https://labex.io/de/courses/kubernetes-for-beginners) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-beginners) | [🚀 Labor Starten](https://labex.io/de/courses/kubernetes-for-beginners) |
+|       2 | [Kubernetes für Anfänger](https://labex.io/de/courses/kubernetes-for-noobs)     | Anfänger        | [🔗 Repo](https://github.com/labex-labs/kubernetes-for-noobs)     | [🚀 Labor Starten](https://labex.io/de/courses/kubernetes-for-noobs)     |
 
 ## Mehr
 
